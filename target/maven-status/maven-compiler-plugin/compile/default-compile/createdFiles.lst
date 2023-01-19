@@ -1,0 +1,10 @@
+com\birthdayemail\userdetails\UserdetailsApplication.class
+com\birthdayemail\userdetails\entity\PersonEntity.class
+com\birthdayemail\userdetails\service\PersonService.class
+com\birthdayemail\userdetails\mapper\PersonMapperImpl.class
+com\birthdayemail\userdetails\controller\PersonController.class
+com\birthdayemail\userdetails\repository\PersonRepository.class
+com\birthdayemail\userdetails\response\PersonResponse.class
+com\birthdayemail\userdetails\model\Person.class
+com\birthdayemail\userdetails\model\People.class
+com\birthdayemail\userdetails\mapper\PersonMapper.class
